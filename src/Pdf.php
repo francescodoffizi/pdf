@@ -13,7 +13,7 @@
 
 use SplFileInfo;
 use RuntimeException;
-use Gears\String\Str;
+use Gears\Strings as Str;
 use Gears\Di\Container;
 use Gears\Pdf\TempFile;
 
