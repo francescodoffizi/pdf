@@ -13,13 +13,13 @@
 
 use SplFileInfo;
 use RuntimeException;
-use Gears\Strings as Str;
+use Gears\String as Str;
 use Gears\Di\Container;
 use Gears\Pdf\TempFile;
 
 class Pdf extends Container
 {
-	/**
+	/**cd 
 	 * This holds an instance of ```Gears\Pdf\TempFile```
 	 * pointing to the document we will convert to PDF.
 	 */
