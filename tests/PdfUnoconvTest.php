@@ -11,7 +11,7 @@
 // -----------------------------------------------------------------------------
 ////////////////////////////////////////////////////////////////////////////////
 
-use Gears\String as Str;
+use Gears\Stringa as Str;
 use SGH\PdfBox\PdfBox;
 
 class PdfUnoconvTest extends PHPUnit_Framework_TestCase
